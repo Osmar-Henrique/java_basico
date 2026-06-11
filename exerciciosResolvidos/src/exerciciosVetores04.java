@@ -1,0 +1,7 @@
+public class exerciciosVetores04 {
+    public static void main(String[] args) {
+
+
+        }
+    }
+
