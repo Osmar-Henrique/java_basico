@@ -5,9 +5,14 @@ public class exerciciosVetores04 {
 
         Scanner input = new Scanner(System.in);
 
-        String[] cidades = new String[5];
+        String[] cidades = {"São Paulo", "Rio", "Curitiba", "Salvador", "Fortaleza"};
 
-        
+        for (String cidade : cidades)
+        {
+            System.out.println(cidade.toUpperCase());
+        }
+
+
 
 
         }
