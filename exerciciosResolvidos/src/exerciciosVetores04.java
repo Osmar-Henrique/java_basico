@@ -7,6 +7,8 @@ public class exerciciosVetores04 {
 
         String[] cidades = new String[5];
 
+        
+
 
         }
     }
