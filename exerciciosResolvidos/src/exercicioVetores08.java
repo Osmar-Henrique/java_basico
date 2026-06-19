@@ -16,7 +16,7 @@ public class exercicioVetores08 {
                 menorN = i;
             }
         }
-        System.out.println(v[maiorN]);
+        System.out.println("Maior: v[" + maiorN + "] = " + v[maiorN]);
         System.out.println("Menor: v[" + menorN + "] = " + v[menorN]);
 
 
